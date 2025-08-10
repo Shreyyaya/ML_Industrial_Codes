@@ -1,0 +1,10 @@
+Python Libraries to run the scirpt:
+
+    pandas
+    numpy
+    scikit-learn
+    joblib
+
+Command to install the libraries: 
+         pip install pandas numpy scikit-learn joblib
+         
